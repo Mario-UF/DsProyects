@@ -48,8 +48,8 @@ def redraw():
     pygame.display.update()
     screen.fill((190,190,190))
     font2 = pygame.font.SysFont(None, 80, False, True)
-    msg = font2.render('PERDISTE MONO QLO!!', False, (255, 0, 0))
-    msg2 = font2.render('GANASTE SAPO CTM!!', False, (0, 255, 0))
+    msg = font2.render('PERDISTE :/', False, (255, 0, 0))
+    msg2 = font2.render('GANASTE!', False, (0, 255, 0))
 
     screen.blit(images[6-lives], (300, 150))
 
@@ -62,7 +62,7 @@ def redraw():
 font = pygame.font.SysFont(None, 24, False, True)
 
 # Word
-Palabra = 'PERRO VERDE'   # <----------------------------------------------INPUT HERE TO PLAY (MAYUS NEEDED)
+Palabra = 'PALABRA X'   # <----------------------------------------------INPUT HERE TO PLAY (MAYUS NEEDED)
 word = []
 x_w = 40
 y_w = 500
