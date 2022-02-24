@@ -11,7 +11,7 @@ Repository containing Machine Learning projects completed by me.
 
 ## Micro-Projects 🔬
 
-* [Chi-squared on synthetic generated data](https://github.com/Mario-UF/DsProyects/blob/main/Micro-projects/An%C3%A1lisis%20univariado%20independencia%20-%20Chi%20cuadrado.ipynb)
+* [Chi-squared, univariate dependency on synthetically generated data](https://github.com/Mario-UF/DsProyects/blob/main/Micro-projects/An%C3%A1lisis%20univariado%20independencia%20-%20Chi%20cuadrado.ipynb)
 
 ## Python projects 🐍
 
