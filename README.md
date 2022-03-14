@@ -15,7 +15,7 @@ Repository containing Machine Learning projects completed by me.
 
 ## Python projects 🐍
 
-* [Wikipedia random article finder - BeautifulSoup/OOP](https://github.com/Mario-UF/DsProyects/blob/main/Pyprojects/wikipedia_scraper.py)🔎📃
+* [Wikipedia scraper -random article finder - BeautifulSoup/OOP](https://github.com/Mario-UF/DsProyects/blob/main/Pyprojects/wikipedia_scraper.py)🔎📃
 * [Hangman Game - Pygame](https://github.com/Mario-UF/DsProyects/blob/main/Pyprojects/Hangman/hangman.py)
 * [Snake Game - Pygame](https://github.com/Mario-UF/DsProyects/blob/main/Pyprojects/Snake.py)
 * [Stop Watch - Tkinter](https://github.com/Mario-UF/DsProyects/blob/main/Pyprojects/Stopwatch/Stop%20watch.py)
