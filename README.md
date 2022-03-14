@@ -5,7 +5,7 @@ Repository containing Machine Learning projects completed by me.
 ## Projects 🚀
 
 * [Income Classifier - Unleashing the joint power of Encoders, Feat.Engineering & Pipelines](https://github.com/Mario-UF/DsProyects/blob/main/Adult%20Census%20Income/ADULTS.ipynb)💰
-* [Titanic Survivor Classifier - Meta learner vs Soft-Voting classifier](https://github.com/Neymario14/DsProyects/blob/main/Titanic_Survivor_Classifier/Titanic_Survivor_Classifier.ipynb) 🚢 
+* [Titanic Survivor Classifier - Stacking Meta learner vs Soft-Voting classifier](https://github.com/Neymario14/DsProyects/blob/main/Titanic_Survivor_Classifier/Titanic_Survivor_Classifier.ipynb) 🚢 
 * [Ames Home price predictor](https://github.com/Neymario14/DsProyects/blob/main/Ames_Housing_Prices/Ames_Housing_Prices.ipynb) 🏠
 
 
