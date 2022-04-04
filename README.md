@@ -8,8 +8,9 @@ Repository containing Machine Learning projects completed by me.
 * [Titanic Survivor Classifier - Stacking Meta learner vs Soft-Voting classifier](https://github.com/Neymario14/DsProyects/blob/main/Titanic_Survivor_Classifier/Titanic_Survivor_Classifier.ipynb) 🚢 
 * [Ames Home price predictor](https://github.com/Neymario14/DsProyects/blob/main/Ames_Housing_Prices/Ames_Housing_Prices.ipynb) 🏠
 
-## Next Project
-* [*(Work in progress)* Spotify Personal Music Clustering - Is my most random list that random?](https://github.com/Mario-UF/DsProyects/blob/main/Adult%20Census%20Income/ADULTS.ipynb) 🎵🎶
+## Next Project - Clustering my own Spotify music ![SpotifyMusicGIF](https://user-images.githubusercontent.com/59539665/161468700-a0a6f895-2af5-4413-9780-b995fdc2deb8.gif)
+
+* [*(Work in progress)* Spotify Personal Music Clustering - Is my most random list that random?](https://github.com/Mario-UF/DsProyects/blob/main/Spotify_Clustering/spotify_data_extract.py) 🎵🎶
 
 ## Micro-Projects 🔬
 
