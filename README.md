@@ -10,9 +10,11 @@ Repository containing Machine Learning & Python projects completed by me.
 * [Ames Home price predictor](https://github.com/Neymario14/DsProyects/blob/main/Ames_Housing_Prices/Ames_Housing_Prices.ipynb) 🏠
 
 ## <a href="https://open.spotify.com/playlist/4vKSQjBWzGfVy10Sx41EMf?si=84c422b1c3cd4b04"><img height="30" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/><a/> Next Project - Clustering my own Spotify music 
- *(click on the spotify icon if you want to check my list)*
+ *(click on the spotify icon if you want to check my playlist)*
 
-* [*(Work in progress - API connection to extract data)* Spotify Personal Music Clustering - Is my most random list... that random?](https://github.com/Mario-UF/DsProyects/blob/main/Spotify_Clustering/spotify_data_extract.py) <a href="https://open.spotify.com/playlist/4vKSQjBWzGfVy10Sx41EMf?si=84c422b1c3cd4b04"><img height=15 title="spotify" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-512.png"><a/>
+* [Spotify API connection to fetch my playlist data](https://github.com/Mario-UF/DsProyects/blob/main/Spotify_Clustering/spotify_data_extract.py)
+  
+* [Work in progress - Spotify Personal Music Clustering - Is my most random playlist... that random?](https://github.com/Mario-UF/DsProyects/blob/main/Spotify_Clustering/My_Spotify_Clustering.ipynb) <a href="https://open.spotify.com/playlist/4vKSQjBWzGfVy10Sx41EMf?si=84c422b1c3cd4b04"><img height=15 title="spotify" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-512.png"><a/>
   
 ## <img height="26" src="https://cdn0.iconfinder.com/data/icons/science-192/64/Electron-atomic-physics-nuclear-education-atom-science--256.png"/> Micro-Projects
 
